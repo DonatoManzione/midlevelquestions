@@ -7,11 +7,31 @@ namespace midlevelquestiontwelve
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine(FindSecondLargest(new int[] { 3, 3, 3, 4, 5, 3, 3 }));
+            //Should print 10
+            Console.WriteLine(FindSecondLargest(new int[] { 3, 5, 4, 8, 10, 4332 }));
         }
+
+
+
+
+
+
+
         //Question 12. Find the second largest integer in an array using a for loop
         public static int FindSecondLargest(int[] arr)
         {
+
+            //account for the possibility that there might only be one element in the array...
+            if (arr.Length == 1)
+            {
+                return arr[0];
+            }
+            x
+            //.. or only two elements
+            if (arr.Length == 2)
+            {
+                return Math.Max(arr[0], arr[1]);
+            }
 
 
             //create a set to avoid checking variables that are duplicates
