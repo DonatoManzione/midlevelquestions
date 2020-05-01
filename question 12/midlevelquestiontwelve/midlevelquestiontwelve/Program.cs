@@ -1,15 +1,13 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
 
-namespace midlevelquestioneleven
+namespace midlevelquestiontwelve
 {
-    class QuestionEleven
+    public class Program
     {
-
         public static void Main(string[] args)
         {
-           Console.WriteLine(FindSecondLargest(new int[] { 3,3,3,4,5,3,3 }));
+            Console.WriteLine(FindSecondLargest(new int[] { 3, 3, 3, 4, 5, 3, 3 }));
         }
         //Question 12. Find the second largest integer in an array using a for loop
         public static int FindSecondLargest(int[] arr)
@@ -31,7 +29,7 @@ namespace midlevelquestioneleven
             //iterate through the set to find largest and second largest
             foreach (object o in uniqInts)
             {
-                                if (largest < (int)o)
+                if (largest < (int)o)
                 {
                     //if largest is smaller than current element 
                     // make largest = current element, and secondLargest = largest 
@@ -41,9 +39,9 @@ namespace midlevelquestioneleven
                 else
                 {
                     //if current element is bigger than secondLargest and smaller than largest, make current element secondLargest
-                    if (secondLargest < (int) o)
+                    if (secondLargest < (int)o)
                     {
-                        secondLargest = (int) o;
+                        secondLargest = (int)o;
                     }
                 }
             }
@@ -57,6 +55,3 @@ namespace midlevelquestioneleven
 
     }
 }
-
-
-

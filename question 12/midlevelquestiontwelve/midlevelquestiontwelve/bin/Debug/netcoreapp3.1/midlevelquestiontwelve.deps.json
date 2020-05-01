@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "midlevelquestioneleven/1.0.0": {
+      "midlevelquestiontwelve/1.0.0": {
         "runtime": {
-          "midlevelquestioneleven.dll": {}
+          "midlevelquestiontwelve.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "midlevelquestioneleven/1.0.0": {
+    "midlevelquestiontwelve/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
