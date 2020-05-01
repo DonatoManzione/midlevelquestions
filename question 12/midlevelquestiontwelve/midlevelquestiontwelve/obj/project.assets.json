@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/edda/Projects/midlevelquestiontwelve/midlevelquestiontwelve/midlevelquestiontwelve.csproj",
+      "projectUniqueName": "/Users/edda/Documents/midlevelquestions/question 12/midlevelquestiontwelve/midlevelquestiontwelve/midlevelquestiontwelve.csproj",
       "projectName": "midlevelquestiontwelve",
-      "projectPath": "/Users/edda/Projects/midlevelquestiontwelve/midlevelquestiontwelve/midlevelquestiontwelve.csproj",
+      "projectPath": "/Users/edda/Documents/midlevelquestions/question 12/midlevelquestiontwelve/midlevelquestiontwelve/midlevelquestiontwelve.csproj",
       "packagesPath": "/Users/edda/.nuget/packages/",
-      "outputPath": "/Users/edda/Projects/midlevelquestiontwelve/midlevelquestiontwelve/obj/",
+      "outputPath": "/Users/edda/Documents/midlevelquestions/question 12/midlevelquestiontwelve/midlevelquestiontwelve/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/edda/.config/NuGet/NuGet.Config"

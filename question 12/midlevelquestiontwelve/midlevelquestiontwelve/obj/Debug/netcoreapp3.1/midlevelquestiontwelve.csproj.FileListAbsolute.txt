@@ -10,3 +10,15 @@
 /Users/edda/Projects/midlevelquestiontwelve/midlevelquestiontwelve/obj/Debug/netcoreapp3.1/midlevelquestiontwelve.dll
 /Users/edda/Projects/midlevelquestiontwelve/midlevelquestiontwelve/obj/Debug/netcoreapp3.1/midlevelquestiontwelve.pdb
 /Users/edda/Projects/midlevelquestiontwelve/midlevelquestiontwelve/obj/Debug/netcoreapp3.1/midlevelquestiontwelve.genruntimeconfig.cache
+/Users/edda/Documents/midlevelquestions/question 12/midlevelquestiontwelve/midlevelquestiontwelve/bin/Debug/netcoreapp3.1/midlevelquestiontwelve.deps.json
+/Users/edda/Documents/midlevelquestions/question 12/midlevelquestiontwelve/midlevelquestiontwelve/bin/Debug/netcoreapp3.1/midlevelquestiontwelve.runtimeconfig.json
+/Users/edda/Documents/midlevelquestions/question 12/midlevelquestiontwelve/midlevelquestiontwelve/bin/Debug/netcoreapp3.1/midlevelquestiontwelve.runtimeconfig.dev.json
+/Users/edda/Documents/midlevelquestions/question 12/midlevelquestiontwelve/midlevelquestiontwelve/bin/Debug/netcoreapp3.1/midlevelquestiontwelve.dll
+/Users/edda/Documents/midlevelquestions/question 12/midlevelquestiontwelve/midlevelquestiontwelve/bin/Debug/netcoreapp3.1/midlevelquestiontwelve.pdb
+/Users/edda/Documents/midlevelquestions/question 12/midlevelquestiontwelve/midlevelquestiontwelve/obj/Debug/netcoreapp3.1/midlevelquestiontwelve.csprojAssemblyReference.cache
+/Users/edda/Documents/midlevelquestions/question 12/midlevelquestiontwelve/midlevelquestiontwelve/obj/Debug/netcoreapp3.1/midlevelquestiontwelve.csproj.CoreCompileInputs.cache
+/Users/edda/Documents/midlevelquestions/question 12/midlevelquestiontwelve/midlevelquestiontwelve/obj/Debug/netcoreapp3.1/midlevelquestiontwelve.AssemblyInfoInputs.cache
+/Users/edda/Documents/midlevelquestions/question 12/midlevelquestiontwelve/midlevelquestiontwelve/obj/Debug/netcoreapp3.1/midlevelquestiontwelve.AssemblyInfo.cs
+/Users/edda/Documents/midlevelquestions/question 12/midlevelquestiontwelve/midlevelquestiontwelve/obj/Debug/netcoreapp3.1/midlevelquestiontwelve.dll
+/Users/edda/Documents/midlevelquestions/question 12/midlevelquestiontwelve/midlevelquestiontwelve/obj/Debug/netcoreapp3.1/midlevelquestiontwelve.pdb
+/Users/edda/Documents/midlevelquestions/question 12/midlevelquestiontwelve/midlevelquestiontwelve/obj/Debug/netcoreapp3.1/midlevelquestiontwelve.genruntimeconfig.cache

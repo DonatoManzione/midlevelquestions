@@ -26,7 +26,7 @@ namespace midlevelquestiontwelve
             {
                 return arr[0];
             }
-            x
+            
             //.. or only two elements
             if (arr.Length == 2)
             {
