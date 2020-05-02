@@ -9,7 +9,7 @@ namespace midlevelquestionsfifteen
             //Question 15: How to convert a one-dimensional array to a two-dimensional array
             // Solution: create a method that takes in the length of each dimension as well as the array itself
             // Make a loop through the first dimension
-            // for each array in the first dimension, loop through the ints and put them in a one-dimensional array
+            // for each array in the first dimension, loop through the ints and put them in a two-dimensional array
             // print each such element
 
 			public static void Main(string[] args)   //main method
