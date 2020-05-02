@@ -10,3 +10,15 @@
 /Users/edda/Projects/midlevelquestionthirteen/midlevelquestionthirteen/obj/Debug/netcoreapp3.1/midlevelquestionthirteen.dll
 /Users/edda/Projects/midlevelquestionthirteen/midlevelquestionthirteen/obj/Debug/netcoreapp3.1/midlevelquestionthirteen.pdb
 /Users/edda/Projects/midlevelquestionthirteen/midlevelquestionthirteen/obj/Debug/netcoreapp3.1/midlevelquestionthirteen.genruntimeconfig.cache
+/Users/edda/Documents/midlevelquestions/question 13/midlevelquestionthirteen/midlevelquestionthirteen/bin/Debug/netcoreapp3.1/midlevelquestionthirteen.deps.json
+/Users/edda/Documents/midlevelquestions/question 13/midlevelquestionthirteen/midlevelquestionthirteen/bin/Debug/netcoreapp3.1/midlevelquestionthirteen.runtimeconfig.json
+/Users/edda/Documents/midlevelquestions/question 13/midlevelquestionthirteen/midlevelquestionthirteen/bin/Debug/netcoreapp3.1/midlevelquestionthirteen.runtimeconfig.dev.json
+/Users/edda/Documents/midlevelquestions/question 13/midlevelquestionthirteen/midlevelquestionthirteen/bin/Debug/netcoreapp3.1/midlevelquestionthirteen.dll
+/Users/edda/Documents/midlevelquestions/question 13/midlevelquestionthirteen/midlevelquestionthirteen/bin/Debug/netcoreapp3.1/midlevelquestionthirteen.pdb
+/Users/edda/Documents/midlevelquestions/question 13/midlevelquestionthirteen/midlevelquestionthirteen/obj/Debug/netcoreapp3.1/midlevelquestionthirteen.csprojAssemblyReference.cache
+/Users/edda/Documents/midlevelquestions/question 13/midlevelquestionthirteen/midlevelquestionthirteen/obj/Debug/netcoreapp3.1/midlevelquestionthirteen.csproj.CoreCompileInputs.cache
+/Users/edda/Documents/midlevelquestions/question 13/midlevelquestionthirteen/midlevelquestionthirteen/obj/Debug/netcoreapp3.1/midlevelquestionthirteen.AssemblyInfoInputs.cache
+/Users/edda/Documents/midlevelquestions/question 13/midlevelquestionthirteen/midlevelquestionthirteen/obj/Debug/netcoreapp3.1/midlevelquestionthirteen.AssemblyInfo.cs
+/Users/edda/Documents/midlevelquestions/question 13/midlevelquestionthirteen/midlevelquestionthirteen/obj/Debug/netcoreapp3.1/midlevelquestionthirteen.dll
+/Users/edda/Documents/midlevelquestions/question 13/midlevelquestionthirteen/midlevelquestionthirteen/obj/Debug/netcoreapp3.1/midlevelquestionthirteen.pdb
+/Users/edda/Documents/midlevelquestions/question 13/midlevelquestionthirteen/midlevelquestionthirteen/obj/Debug/netcoreapp3.1/midlevelquestionthirteen.genruntimeconfig.cache

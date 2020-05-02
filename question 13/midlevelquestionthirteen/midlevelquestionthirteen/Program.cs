@@ -15,6 +15,7 @@ namespace midlevelquestionthirteen
 
         static int FindThirdLargest(int[] arr)
         {
+            //Find largest, second largest, and third largest from among the first three elements
             int largest = Math.Max(arr[0], arr[1]);
             int secondLargest = Math.Min(arr[0], arr[1]);
             int thirdLargest;
@@ -34,7 +35,7 @@ namespace midlevelquestionthirteen
                 thirdLargest = arr[2];
             }
 
-
+            //iterate through the remaining elements and replace variables as needed
             for(int i = 3; i < arr.Length; i++)
             {
                 if (largest < arr[i])
