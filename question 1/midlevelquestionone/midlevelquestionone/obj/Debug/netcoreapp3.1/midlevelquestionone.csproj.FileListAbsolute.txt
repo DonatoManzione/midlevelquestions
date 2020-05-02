@@ -1,0 +1,12 @@
+/Users/edda/Projects/midlevelquestionone/midlevelquestionone/bin/Debug/netcoreapp3.1/midlevelquestionone.deps.json
+/Users/edda/Projects/midlevelquestionone/midlevelquestionone/bin/Debug/netcoreapp3.1/midlevelquestionone.runtimeconfig.json
+/Users/edda/Projects/midlevelquestionone/midlevelquestionone/bin/Debug/netcoreapp3.1/midlevelquestionone.runtimeconfig.dev.json
+/Users/edda/Projects/midlevelquestionone/midlevelquestionone/bin/Debug/netcoreapp3.1/midlevelquestionone.dll
+/Users/edda/Projects/midlevelquestionone/midlevelquestionone/bin/Debug/netcoreapp3.1/midlevelquestionone.pdb
+/Users/edda/Projects/midlevelquestionone/midlevelquestionone/obj/Debug/netcoreapp3.1/midlevelquestionone.csprojAssemblyReference.cache
+/Users/edda/Projects/midlevelquestionone/midlevelquestionone/obj/Debug/netcoreapp3.1/midlevelquestionone.csproj.CoreCompileInputs.cache
+/Users/edda/Projects/midlevelquestionone/midlevelquestionone/obj/Debug/netcoreapp3.1/midlevelquestionone.AssemblyInfoInputs.cache
+/Users/edda/Projects/midlevelquestionone/midlevelquestionone/obj/Debug/netcoreapp3.1/midlevelquestionone.AssemblyInfo.cs
+/Users/edda/Projects/midlevelquestionone/midlevelquestionone/obj/Debug/netcoreapp3.1/midlevelquestionone.dll
+/Users/edda/Projects/midlevelquestionone/midlevelquestionone/obj/Debug/netcoreapp3.1/midlevelquestionone.pdb
+/Users/edda/Projects/midlevelquestionone/midlevelquestionone/obj/Debug/netcoreapp3.1/midlevelquestionone.genruntimeconfig.cache
