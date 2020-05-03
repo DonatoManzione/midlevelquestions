@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/edda/Projects/midlevelquestionfourteen/midlevelquestionfourteen/midlevelquestionfourteen.csproj": {}
+    "/Users/edda/Documents/midlevelquestions/question 14/midlevelquestionfourteen/midlevelquestionfourteen/midlevelquestionfourteen.csproj": {}
   },
   "projects": {
-    "/Users/edda/Projects/midlevelquestionfourteen/midlevelquestionfourteen/midlevelquestionfourteen.csproj": {
+    "/Users/edda/Documents/midlevelquestions/question 14/midlevelquestionfourteen/midlevelquestionfourteen/midlevelquestionfourteen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/edda/Projects/midlevelquestionfourteen/midlevelquestionfourteen/midlevelquestionfourteen.csproj",
+        "projectUniqueName": "/Users/edda/Documents/midlevelquestions/question 14/midlevelquestionfourteen/midlevelquestionfourteen/midlevelquestionfourteen.csproj",
         "projectName": "midlevelquestionfourteen",
-        "projectPath": "/Users/edda/Projects/midlevelquestionfourteen/midlevelquestionfourteen/midlevelquestionfourteen.csproj",
+        "projectPath": "/Users/edda/Documents/midlevelquestions/question 14/midlevelquestionfourteen/midlevelquestionfourteen/midlevelquestionfourteen.csproj",
         "packagesPath": "/Users/edda/.nuget/packages/",
-        "outputPath": "/Users/edda/Projects/midlevelquestionfourteen/midlevelquestionfourteen/obj/",
+        "outputPath": "/Users/edda/Documents/midlevelquestions/question 14/midlevelquestionfourteen/midlevelquestionfourteen/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/edda/.config/NuGet/NuGet.Config"

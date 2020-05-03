@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/edda/Projects/midlevelquestioneleven/midlevelquestioneleven/midlevelquestioneleven.csproj": {}
+    "/Users/edda/Documents/midlevelquestions/question 11/midlevelquestioneleven/midlevelquestioneleven/midlevelquestioneleven.csproj": {}
   },
   "projects": {
-    "/Users/edda/Projects/midlevelquestioneleven/midlevelquestioneleven/midlevelquestioneleven.csproj": {
+    "/Users/edda/Documents/midlevelquestions/question 11/midlevelquestioneleven/midlevelquestioneleven/midlevelquestioneleven.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/edda/Projects/midlevelquestioneleven/midlevelquestioneleven/midlevelquestioneleven.csproj",
+        "projectUniqueName": "/Users/edda/Documents/midlevelquestions/question 11/midlevelquestioneleven/midlevelquestioneleven/midlevelquestioneleven.csproj",
         "projectName": "midlevelquestioneleven",
-        "projectPath": "/Users/edda/Projects/midlevelquestioneleven/midlevelquestioneleven/midlevelquestioneleven.csproj",
+        "projectPath": "/Users/edda/Documents/midlevelquestions/question 11/midlevelquestioneleven/midlevelquestioneleven/midlevelquestioneleven.csproj",
         "packagesPath": "/Users/edda/.nuget/packages/",
-        "outputPath": "/Users/edda/Projects/midlevelquestioneleven/midlevelquestioneleven/obj/",
+        "outputPath": "/Users/edda/Documents/midlevelquestions/question 11/midlevelquestioneleven/midlevelquestioneleven/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/edda/.config/NuGet/NuGet.Config"

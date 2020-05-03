@@ -1,0 +1,12 @@
+/Users/edda/Documents/midlevelquestions/question 1/question 2/midlevelquestionstwo/midlevelquestionstwo/bin/Debug/netcoreapp3.1/midlevelquestionstwo.deps.json
+/Users/edda/Documents/midlevelquestions/question 1/question 2/midlevelquestionstwo/midlevelquestionstwo/bin/Debug/netcoreapp3.1/midlevelquestionstwo.runtimeconfig.json
+/Users/edda/Documents/midlevelquestions/question 1/question 2/midlevelquestionstwo/midlevelquestionstwo/bin/Debug/netcoreapp3.1/midlevelquestionstwo.runtimeconfig.dev.json
+/Users/edda/Documents/midlevelquestions/question 1/question 2/midlevelquestionstwo/midlevelquestionstwo/bin/Debug/netcoreapp3.1/midlevelquestionstwo.dll
+/Users/edda/Documents/midlevelquestions/question 1/question 2/midlevelquestionstwo/midlevelquestionstwo/bin/Debug/netcoreapp3.1/midlevelquestionstwo.pdb
+/Users/edda/Documents/midlevelquestions/question 1/question 2/midlevelquestionstwo/midlevelquestionstwo/obj/Debug/netcoreapp3.1/midlevelquestionstwo.csprojAssemblyReference.cache
+/Users/edda/Documents/midlevelquestions/question 1/question 2/midlevelquestionstwo/midlevelquestionstwo/obj/Debug/netcoreapp3.1/midlevelquestionstwo.csproj.CoreCompileInputs.cache
+/Users/edda/Documents/midlevelquestions/question 1/question 2/midlevelquestionstwo/midlevelquestionstwo/obj/Debug/netcoreapp3.1/midlevelquestionstwo.AssemblyInfoInputs.cache
+/Users/edda/Documents/midlevelquestions/question 1/question 2/midlevelquestionstwo/midlevelquestionstwo/obj/Debug/netcoreapp3.1/midlevelquestionstwo.AssemblyInfo.cs
+/Users/edda/Documents/midlevelquestions/question 1/question 2/midlevelquestionstwo/midlevelquestionstwo/obj/Debug/netcoreapp3.1/midlevelquestionstwo.dll
+/Users/edda/Documents/midlevelquestions/question 1/question 2/midlevelquestionstwo/midlevelquestionstwo/obj/Debug/netcoreapp3.1/midlevelquestionstwo.pdb
+/Users/edda/Documents/midlevelquestions/question 1/question 2/midlevelquestionstwo/midlevelquestionstwo/obj/Debug/netcoreapp3.1/midlevelquestionstwo.genruntimeconfig.cache
