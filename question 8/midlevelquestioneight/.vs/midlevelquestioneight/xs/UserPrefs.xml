@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{50108E59-27F3-45FE-8374-3A7CFC7992A3}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="midlevelquestionseven/Program.cs">
+﻿<Properties StartupConfiguration="{3E00C161-EFFE-42B4-9A86-538911C0D2CB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="midlevelquestioneight/Program.cs">
     <Files>
-      <File FileName="midlevelquestionseven/Program.cs" Line="10" Column="66" />
+      <File FileName="midlevelquestioneight/Program.cs" Line="13" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="midlevelquestionseven" expanded="True">
-            <Node name="midlevelquestionseven" expanded="True">
+          <Node name="midlevelquestioneight" expanded="True">
+            <Node name="midlevelquestioneight" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,11 +15,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.midlevelquestionseven PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.midlevelquestioneight FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

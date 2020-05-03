@@ -1,0 +1,12 @@
+/Users/edda/Projects/midlevelquestioneight/midlevelquestioneight/bin/Debug/netcoreapp3.1/midlevelquestioneight.deps.json
+/Users/edda/Projects/midlevelquestioneight/midlevelquestioneight/bin/Debug/netcoreapp3.1/midlevelquestioneight.runtimeconfig.json
+/Users/edda/Projects/midlevelquestioneight/midlevelquestioneight/bin/Debug/netcoreapp3.1/midlevelquestioneight.runtimeconfig.dev.json
+/Users/edda/Projects/midlevelquestioneight/midlevelquestioneight/bin/Debug/netcoreapp3.1/midlevelquestioneight.dll
+/Users/edda/Projects/midlevelquestioneight/midlevelquestioneight/bin/Debug/netcoreapp3.1/midlevelquestioneight.pdb
+/Users/edda/Projects/midlevelquestioneight/midlevelquestioneight/obj/Debug/netcoreapp3.1/midlevelquestioneight.csprojAssemblyReference.cache
+/Users/edda/Projects/midlevelquestioneight/midlevelquestioneight/obj/Debug/netcoreapp3.1/midlevelquestioneight.csproj.CoreCompileInputs.cache
+/Users/edda/Projects/midlevelquestioneight/midlevelquestioneight/obj/Debug/netcoreapp3.1/midlevelquestioneight.AssemblyInfoInputs.cache
+/Users/edda/Projects/midlevelquestioneight/midlevelquestioneight/obj/Debug/netcoreapp3.1/midlevelquestioneight.AssemblyInfo.cs
+/Users/edda/Projects/midlevelquestioneight/midlevelquestioneight/obj/Debug/netcoreapp3.1/midlevelquestioneight.dll
+/Users/edda/Projects/midlevelquestioneight/midlevelquestioneight/obj/Debug/netcoreapp3.1/midlevelquestioneight.pdb
+/Users/edda/Projects/midlevelquestioneight/midlevelquestioneight/obj/Debug/netcoreapp3.1/midlevelquestioneight.genruntimeconfig.cache
