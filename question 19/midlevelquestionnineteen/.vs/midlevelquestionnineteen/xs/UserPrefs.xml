@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{0A2C1253-8595-4D7F-9500-FFEDFBCEC27D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="midlevelquestionseventeen/Program.cs">
+﻿<Properties StartupConfiguration="{F5F2ECF4-D70C-4943-B4FA-E821C0E70812}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="midlevelquestionnineteen/Program.cs">
     <Files>
-      <File FileName="midlevelquestionseventeen/Program.cs" Line="27" Column="10" />
+      <File FileName="midlevelquestionnineteen/Program.cs" Line="7" Column="84" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="midlevelquestionseventeen" expanded="True">
-            <Node name="midlevelquestionseventeen" expanded="True">
+          <Node name="midlevelquestionnineteen" expanded="True">
+            <Node name="midlevelquestionnineteen" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -20,7 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.midlevelquestionseventeen PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.midlevelquestionnineteen FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

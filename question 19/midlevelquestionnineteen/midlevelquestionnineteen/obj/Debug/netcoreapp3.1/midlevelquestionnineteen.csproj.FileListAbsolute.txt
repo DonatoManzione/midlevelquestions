@@ -1,0 +1,12 @@
+/Users/edda/Documents/midlevelquestions/question 19/midlevelquestionnineteen/midlevelquestionnineteen/bin/Debug/netcoreapp3.1/midlevelquestionnineteen.deps.json
+/Users/edda/Documents/midlevelquestions/question 19/midlevelquestionnineteen/midlevelquestionnineteen/bin/Debug/netcoreapp3.1/midlevelquestionnineteen.runtimeconfig.json
+/Users/edda/Documents/midlevelquestions/question 19/midlevelquestionnineteen/midlevelquestionnineteen/bin/Debug/netcoreapp3.1/midlevelquestionnineteen.runtimeconfig.dev.json
+/Users/edda/Documents/midlevelquestions/question 19/midlevelquestionnineteen/midlevelquestionnineteen/bin/Debug/netcoreapp3.1/midlevelquestionnineteen.dll
+/Users/edda/Documents/midlevelquestions/question 19/midlevelquestionnineteen/midlevelquestionnineteen/bin/Debug/netcoreapp3.1/midlevelquestionnineteen.pdb
+/Users/edda/Documents/midlevelquestions/question 19/midlevelquestionnineteen/midlevelquestionnineteen/obj/Debug/netcoreapp3.1/midlevelquestionnineteen.csprojAssemblyReference.cache
+/Users/edda/Documents/midlevelquestions/question 19/midlevelquestionnineteen/midlevelquestionnineteen/obj/Debug/netcoreapp3.1/midlevelquestionnineteen.csproj.CoreCompileInputs.cache
+/Users/edda/Documents/midlevelquestions/question 19/midlevelquestionnineteen/midlevelquestionnineteen/obj/Debug/netcoreapp3.1/midlevelquestionnineteen.AssemblyInfoInputs.cache
+/Users/edda/Documents/midlevelquestions/question 19/midlevelquestionnineteen/midlevelquestionnineteen/obj/Debug/netcoreapp3.1/midlevelquestionnineteen.AssemblyInfo.cs
+/Users/edda/Documents/midlevelquestions/question 19/midlevelquestionnineteen/midlevelquestionnineteen/obj/Debug/netcoreapp3.1/midlevelquestionnineteen.dll
+/Users/edda/Documents/midlevelquestions/question 19/midlevelquestionnineteen/midlevelquestionnineteen/obj/Debug/netcoreapp3.1/midlevelquestionnineteen.pdb
+/Users/edda/Documents/midlevelquestions/question 19/midlevelquestionnineteen/midlevelquestionnineteen/obj/Debug/netcoreapp3.1/midlevelquestionnineteen.genruntimeconfig.cache
