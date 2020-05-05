@@ -1,0 +1,12 @@
+/Users/edda/Documents/midlevelquestions/question 17/midlevelquestionseventeen/midlevelquestionseventeen/bin/Debug/netcoreapp3.1/midlevelquestionseventeen.deps.json
+/Users/edda/Documents/midlevelquestions/question 17/midlevelquestionseventeen/midlevelquestionseventeen/bin/Debug/netcoreapp3.1/midlevelquestionseventeen.runtimeconfig.json
+/Users/edda/Documents/midlevelquestions/question 17/midlevelquestionseventeen/midlevelquestionseventeen/bin/Debug/netcoreapp3.1/midlevelquestionseventeen.runtimeconfig.dev.json
+/Users/edda/Documents/midlevelquestions/question 17/midlevelquestionseventeen/midlevelquestionseventeen/bin/Debug/netcoreapp3.1/midlevelquestionseventeen.dll
+/Users/edda/Documents/midlevelquestions/question 17/midlevelquestionseventeen/midlevelquestionseventeen/bin/Debug/netcoreapp3.1/midlevelquestionseventeen.pdb
+/Users/edda/Documents/midlevelquestions/question 17/midlevelquestionseventeen/midlevelquestionseventeen/obj/Debug/netcoreapp3.1/midlevelquestionseventeen.csprojAssemblyReference.cache
+/Users/edda/Documents/midlevelquestions/question 17/midlevelquestionseventeen/midlevelquestionseventeen/obj/Debug/netcoreapp3.1/midlevelquestionseventeen.csproj.CoreCompileInputs.cache
+/Users/edda/Documents/midlevelquestions/question 17/midlevelquestionseventeen/midlevelquestionseventeen/obj/Debug/netcoreapp3.1/midlevelquestionseventeen.AssemblyInfoInputs.cache
+/Users/edda/Documents/midlevelquestions/question 17/midlevelquestionseventeen/midlevelquestionseventeen/obj/Debug/netcoreapp3.1/midlevelquestionseventeen.AssemblyInfo.cs
+/Users/edda/Documents/midlevelquestions/question 17/midlevelquestionseventeen/midlevelquestionseventeen/obj/Debug/netcoreapp3.1/midlevelquestionseventeen.dll
+/Users/edda/Documents/midlevelquestions/question 17/midlevelquestionseventeen/midlevelquestionseventeen/obj/Debug/netcoreapp3.1/midlevelquestionseventeen.pdb
+/Users/edda/Documents/midlevelquestions/question 17/midlevelquestionseventeen/midlevelquestionseventeen/obj/Debug/netcoreapp3.1/midlevelquestionseventeen.genruntimeconfig.cache
