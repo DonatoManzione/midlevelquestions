@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{66B583ED-C512-494C-8401-3EB5C9D70905}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="midlevelquestiontwenty/Program.cs">
+    <Files>
+      <File FileName="midlevelquestiontwenty/Program.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="midlevelquestiontwenty" expanded="True">
+            <Node name="midlevelquestiontwenty" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.midlevelquestiontwenty FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
